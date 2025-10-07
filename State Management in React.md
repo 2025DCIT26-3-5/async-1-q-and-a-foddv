@@ -1,5 +1,5 @@
 # State Management Overview
 
-## Question
+## Question: What is state management in React? (Villanueva) 
 
-## Answer
+## Answer: State management is the process of handling and sharing data across React components to make the app interactive and consistent. (Villanueva)
