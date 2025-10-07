@@ -1,8 +1,8 @@
 # Node.js & npm
 
-## Question
+## Question: is the differnts between Node.js & npm? (Delacruz) 
 
-## Answer
+## Answer: Node.js is a JavaScript runtime that allows you to run JavaScript outside the browser. npm is the package manager that comes with Node.js. (Delacruz)
 
 
 
