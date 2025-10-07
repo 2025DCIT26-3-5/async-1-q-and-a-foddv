@@ -1,52 +1,53 @@
 # Component-Based Architecture
 
-## Question
+## Question: It follows single principle and can encapsulate. (De Leus)
 
-## Answer
+## Answer: Component based architecture. (De Leus)
+
 
 
 
 
 # Declarative Programming Paradigm
 
-## Question
+## Question: React focuses on describing what the UI should look like based on the current state, rather than specifying the exact steps to achieve that UI. (Delacruz)
 
-## Answer
+## Answer: Declarative Programming Paradigm (Delacruz)
 
 
 
 
 # State-Driven UI Architecture
 
-## Question
+## Question: What is the main purpose of state in a State-Driven UI Architecture like React?(Fronda)
 
-## Answer
+## Answer: The state represents the complete UI condition at any point in time, serving as the single source of truth for the interface. (Fronda)
 
 
 
 
 # JavaScript Library Architecture
 
-## Question
+## Question: What is JavaScript library architecture? (Ongpao)
 
-## Answer
+## Answer: It’s the way a JavaScript library is structured, showing how its features are organized and how different parts work together. (Ongpao)
 
 
 
 
 # Industry Adoption & Ecosystem
 
-## Question
+## Question: What is the reason React became the standard for modern frontend development? (Villanueva)
 
-## Answer
+## Answer: Because it has strong technical features, an active community, and powerful tools that make it easy to build modern web apps. (Villanueva)
 
 
 
 
 # Meta Engineering & Open Source
 
-## Question
+## Question: Originally developed to solve Facebook's news feed performance and complexity issues. (De Leus)
 
-## Answer
+## Answer: Meta Engineering & Open Source. (De Leus)
 
 
