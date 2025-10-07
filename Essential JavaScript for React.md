@@ -1,17 +1,17 @@
 # Destructuring Assignment
 
-## Question
+## Question: What is destructuring in JavaScript, and why is it important in React? (Villanueva)
 
-## Answer
+## Answer: Destructuring is a way to extract values from arrays or objects into separate variables. It’s useful for working with props and state in React. (Villanueva)
 
 
 
 
 # Arrow Functions
 
-## Question
+## Question: A concise way to write functions with lexical this binding. (De Leus)
 
-## Answer
+## Answer: Arrow Functions (De Leus)
 
 
 
@@ -45,6 +45,6 @@
 
 # Conditional (Ternary) Operator
 
-## Question
+## Question : Why is the ternary operator important in React? (Villanueva)
 
-## Answer
+## Answer: It’s used for conditional rendering/showing elements depending on a condition. (Villanueva)
