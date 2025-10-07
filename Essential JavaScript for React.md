@@ -36,9 +36,9 @@
 
 # Template Literals
 
-## Question
+## Question: What are Template Literals? (Ongpao)
 
-## Answer
+## Answer: Template literals are special strings in JavaScript that let you include variables and expressions inside them. (Ongpao)
 
 
 
