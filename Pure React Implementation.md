@@ -27,6 +27,6 @@
 
 # Pure React (No JSX)
 
-## Question
+## Question: What is Pure React (No JSX)? (Ongpao)
 
-## Answer
+## Answer: It means writing React code without using JSX syntax, by using plain JavaScript instead. (Ongpao)
