@@ -36,9 +36,9 @@
 
 # Industry Adoption & Ecosystem
 
-## What is the reason React became the standard for modern frontend development? (Villanueva)
+## Question: What is the reason React became the standard for modern frontend development? (Villanueva)
 
-## Because it has strong technical features, an active community, and powerful tools that make it easy to build modern web apps. (Villanueva)
+## Answer: Because it has strong technical features, an active community, and powerful tools that make it easy to build modern web apps. (Villanueva)
 
 
 
