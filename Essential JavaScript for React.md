@@ -27,9 +27,9 @@
 
 # Array Methods
 
-## Question
+## Question: What is an array method in JavaScript? (Fronda)
 
-## Answer
+## Answer: An array method is a built-in function used to add, remove, or modify elements in an array, like push(), pop(), map(), and filter(). (Fronda)
 
 
 
