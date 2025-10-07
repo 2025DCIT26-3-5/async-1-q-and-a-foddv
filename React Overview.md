@@ -1,10 +1,9 @@
 # Component-Based Architecture
 
-## Question
-## It follows single principle and can encapsulate. (De Leus)
+## Question: It follows single principle and can encapsulate. (De Leus)
 
-## Answer
-## Component based architecture (De Leus)
+## Answer: Component based architecture. (De Leus)
+
 
 
 
@@ -47,8 +46,8 @@
 
 # Meta Engineering & Open Source
 
-## Question
+## Question: Originally developed to solve Facebook's news feed performance and complexity issues. (De Leus)
 
-## Answer
+## Answer: Meta Engineering & Open Source. (De Leus)
 
 
