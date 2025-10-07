@@ -28,9 +28,9 @@
 
 # JavaScript Library Architecture
 
-## Question
+## Question: What is JavaScript library architecture? (Ongpao)
 
-## Answer
+## Answer: It’s the way a JavaScript library is structured, showing how its features are organized and how different parts work together. (Ongpao)
 
 
 
