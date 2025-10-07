@@ -1,9 +1,12 @@
 # Component-Based Architecture
 
 ## Question
+## It follows single principle and can encapsulate.
 
 ## Answer
+## Component based architecture
 
+## Jacent De Leus
 
 
 
