@@ -18,9 +18,9 @@
 
 # Multiple Components
 
-## Question
+## Question: What does the “Multiple Components” example in React demonstrate? (Fronda)
 
-## Answer
+## Answer: It shows how components work together using props, state lifting, and composition. (Fronda)
 
 
 
