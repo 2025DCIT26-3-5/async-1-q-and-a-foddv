@@ -1,8 +1,9 @@
 # Component-Based Architecture
 
-## Question
+## Question: It follows single principle and can encapsulate. (De Leus)
 
-## Answer
+## Answer: Component based architecture. (De Leus)
+
 
 
 
@@ -36,17 +37,17 @@
 
 # Industry Adoption & Ecosystem
 
-## Question
+## Question: What is the reason React became the standard for modern frontend development? (Villanueva)
 
-## Answer
+## Answer: Because it has strong technical features, an active community, and powerful tools that make it easy to build modern web apps. (Villanueva)
 
 
 
 
 # Meta Engineering & Open Source
 
-## Question
+## Question: Originally developed to solve Facebook's news feed performance and complexity issues. (De Leus)
 
-## Answer
+## Answer: Meta Engineering & Open Source. (De Leus)
 
 
