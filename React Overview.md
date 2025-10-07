@@ -36,9 +36,9 @@
 
 # Industry Adoption & Ecosystem
 
-## Question
+## How does React’s open-source nature influence its adoption by large and small companies? (Villanueva)
 
-## Answer
+## Because it’s open-source, it’s free to use and constantly improved by the community, which makes it reliable for both small and large companies. (Villanueva)
 
 
 
