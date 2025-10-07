@@ -45,6 +45,6 @@
 
 # Conditional (Ternary) Operator
 
-## Question
+## Question : Why is the ternary operator important in React? (Villanueva)
 
-## Answer
+## Answer: It’s used for conditional rendering/showing elements depending on a condition. (Villanueva)
