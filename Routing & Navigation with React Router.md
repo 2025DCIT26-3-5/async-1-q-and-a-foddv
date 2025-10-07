@@ -27,9 +27,9 @@
 
 # Dynamic Routes & Parameters
 
-## Question
+## Question: How do dynamic routes work with parameters? (Ongpao)
 
-## Answer
+## Answer: The URL has placeholders like :id and the app shows content based on the value in the URL. (Ongpao)
 
 
 
