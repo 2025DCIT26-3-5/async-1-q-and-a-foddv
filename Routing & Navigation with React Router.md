@@ -18,9 +18,9 @@
 
 # Navigation Techniques
 
-## Question
+## Question: What are the navigation techniques in React Router? (Fronda)
 
-## Answer
+## Answer: Declarative, Programmatic, and Navigation with State. (Fronda)
 
 
 
