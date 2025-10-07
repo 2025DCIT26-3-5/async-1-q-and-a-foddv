@@ -18,9 +18,9 @@
 
 # Vite
 
-## Question
+## Question: How does Vite work? (Ongpao)
 
-## Answer
+## Answer: Vite serves your code directly during development, so it’s super fast. It only bundles the code when you're ready to deploy. (Ongpao)
 
 
 
