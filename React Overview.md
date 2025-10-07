@@ -10,9 +10,9 @@
 
 # Declarative Programming Paradigm
 
-## Question
+## Question: React focuses on describing what the UI should look like based on the current state, rather than specifying the exact steps to achieve that UI. (Delacruz)
 
-## Answer
+## Answer: Declarative Programming Paradigm (Delacruz)
 
 
 
