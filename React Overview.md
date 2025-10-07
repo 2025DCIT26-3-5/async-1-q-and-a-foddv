@@ -10,9 +10,9 @@
 
 # Declarative Programming Paradigm
 
-## Question
+## Question: React focuses on describing what the UI should look like based on the current state, rather than specifying the exact steps to achieve that UI. (Delacruz)
 
-## Answer
+## Answer: Declarative Programming Paradigm (Delacruz)
 
 
 
@@ -28,9 +28,9 @@
 
 # JavaScript Library Architecture
 
-## Question
+## Question: What is JavaScript library architecture? (Ongpao)
 
-## Answer
+## Answer: It’s the way a JavaScript library is structured, showing how its features are organized and how different parts work together. (Ongpao)
 
 
 
