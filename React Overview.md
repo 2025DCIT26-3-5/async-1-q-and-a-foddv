@@ -47,8 +47,10 @@
 
 # Meta Engineering & Open Source
 
-## Question
+## Question: Originally developed to solve Facebook's news feed performance and complexity issues.
+## (De Leus)
 
-## Answer
+## Answer: Meta Engineering & Open Source.
+## (De Leus)
 
 
