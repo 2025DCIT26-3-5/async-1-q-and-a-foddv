@@ -1,8 +1,8 @@
 # Destructuring Assignment
 
-## Question
+## Question: What is destructuring in JavaScript, and why is it important in React? (Villanueva)
 
-## Answer
+## Answer: Destructuring is a way to extract values from arrays or objects into separate variables. It’s useful for working with props and state in React. (Villanueva)
 
 
 
