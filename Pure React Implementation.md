@@ -9,9 +9,9 @@
 
 # Interactive Counter
 
-## Question
+## Question: A counter component demonstrating state management in pure React (Delacruz)
 
-## Answer
+## Answer: Interactive Counter (Delacruz)
 
 
 
