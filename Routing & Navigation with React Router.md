@@ -36,6 +36,6 @@
 
 # Nested Routes & Layouts
 
-## Question
+## Question: What is the purpose of React Router? (Villanueva)
 
-## Answer
+## Answer: React Router is used to create navigation and routes in single-page applications (SPAs) without reloading the page. (Villanueva) 
