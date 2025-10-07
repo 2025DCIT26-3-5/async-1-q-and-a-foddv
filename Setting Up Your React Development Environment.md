@@ -9,9 +9,9 @@
 
 # Code Editor Setup
 
-## Question
+## Question: What code editor is most commonly used for React development? (Fronda)
 
-## Answer
+## Answer: Visual Studio Code (VS Code) is the most popular editor for React development. (Fronda)
 
 
 
