@@ -18,9 +18,9 @@
 
 # Spread & Rest Operators
 
-## Question
+## Question: What is the differents between Spread & Rest Operators? (Delacruz)
 
-## Answer
+## Answer: Spread is a operator for expanding iterables and Rest is a operator for collecting arguments (Delacruz)
 
 
 
