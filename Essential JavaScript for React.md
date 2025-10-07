@@ -9,9 +9,9 @@
 
 # Arrow Functions
 
-## Question
+## Question: A concise way to write functions with lexical this binding. (De Leus)
 
-## Answer
+## Answer: Arrow Functions (De Leus)
 
 
 
