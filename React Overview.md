@@ -18,9 +18,9 @@
 
 # State-Driven UI Architecture
 
-## Question
+## Question: What is the main purpose of state in a State-Driven UI Architecture like React?(Fronda)
 
-## Answer
+## Answer: The state represents the complete UI condition at any point in time, serving as the single source of truth for the interface. (Fronda)
 
 
 
