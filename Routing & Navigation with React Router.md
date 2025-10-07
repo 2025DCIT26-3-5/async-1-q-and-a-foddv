@@ -1,8 +1,8 @@
 # Introduction to React Router
 
-## Question
+## Question: enables navigation and routing in single-page applications (SPAs). (De Leus)
 
-## Answer
+## Answer: Introduction to React Router (De Leus)
 
 
 
