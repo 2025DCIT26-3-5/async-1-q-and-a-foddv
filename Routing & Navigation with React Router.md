@@ -9,9 +9,9 @@
 
 # Core Router Components
 
-## Question
+## Question: What are the core router components in React Router? (Delacruz)
 
-## Answer
+## Answer: The core router components are the essential building blocks that make React Router work. They include: BrowserRouter – Wraps the entire app and enables routing using the HTML5 history API. Routes & Route – Define which component should render for specific URL paths. Link & NavLink – Provide navigation between routes without reloading the page. (Delacruz)
 
 
 
